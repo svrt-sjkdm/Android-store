@@ -18,3 +18,14 @@ activity_admin_edit        --> Pantalla donde el administrador modifica o agrega
 activity_admin_add_product --> Pantalla donde el administrador llena los datos de los productos a añadir
 activity_user_shop         --> Pantalla donde el usuario decide que productos agregar al carro
 activity_user_pay          --> Pantalla donde el usuario ve que productos tiene en su carro y paga
+
+----------------------------------------------------------------------------------------------------------
+*** La validacion de los datos al introducir el producto ha sido agregada
+
+Falta:
+
+** Crear base de datos
+** Agregar producto a la base de datos de productos
+** Interfaz de seleccion de productos del usuario
+** Interfaz de compra (el carrito) del usuario
+** Interfaz de editar productos del administrador
